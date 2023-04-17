@@ -1,0 +1,7 @@
+**/atlas/
+**/target/
+**/.idea/
+**/ChatiDB/
+**/out/
+*.iml
+*.log
