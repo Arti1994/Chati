@@ -1,7 +1,7 @@
 # Chati
 
 This was a submission for a university project by me and 4 other students in 2021. 
-The task was to develop a software to a given topic (2D interactive chat game) in a team of 5.
+The task was to develop a software to a given topic (2D interactive chat game) in one semester in a team of 5.
 The project had to be done with the waterfall model, so that every student was responsible for
 a particular phase. The resulting artifacts included specifications ("Lastenheft"),
 architectural drafts including uml class- and sequence diagrams, the source code, documentation
