@@ -31,6 +31,8 @@ The following screenshots show how the application looks like:
 
 ![Screenshot4](https://github.com/Arti1994/Chati/blob/master/doc/Screenshot4.png)
 
+![Screenshot5](https://github.com/Arti1994/Chati/blob/master/doc/Screenshot5.png)
+
 ## Can I use Chati?
 
 Unfortunately, as the source some resources is uncertain (and thus the rights to publish), I had to delete some files. Thus, the state of the Client 
