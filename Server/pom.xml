@@ -30,7 +30,7 @@
         <dependency>
             <groupId>com.google.guava</groupId>
             <artifactId>guava</artifactId>
-            <version>23.0</version>
+            <version>31.1-jre</version>
         </dependency>
 
         <!-- LibGDX - Headless Backend -->
@@ -52,7 +52,7 @@
         <dependency>
             <groupId>de.dfki.mary</groupId>
             <artifactId>voice-cmu-slt-hsmm</artifactId>
-            <version>5.2</version>
+            <version>5.2.1</version>
         </dependency>
 
         <!-- MaryTTS - German Female Voice -->
