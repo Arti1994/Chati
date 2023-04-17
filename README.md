@@ -31,10 +31,10 @@ The following screenshots show how the application looks like:
 
 ![Screenshot4](https://github.com/Arti1994/Chati/blob/master/doc/Screenshot4.png)
 
-## How to use Chati?
+## Can I use Chati?
 
-If you wanna try out Chati, you can simply clone the repo, build the sources and start the `Launcher` classes in the Server and Client packages respectively.
-You can then simply create an account, a world and join!
+Unfortunately, as the source (and thus the rights to publish) some resources is uncertain, I had to delete some files. Thus, the state of Chati in this
+repo is unusable.
 
 ## Credits
 
@@ -52,4 +52,6 @@ Following resources were used to build Chati:
 * Music: [Bensound](https://www.bensound.com/royalty-free-music)
 
 All of the icons used in the application are self made!
-The resources for avatars and maps are bought by a student of the group.
+
+The resources for maps and avatars were provided by one student in the group who does not remember were he got it from. So it is uncertain if we are
+allowed to publish the application with all resources available. Thus, those resources were removed from this repo to avoid any legal issues.
