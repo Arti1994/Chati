@@ -47,6 +47,7 @@ Following libraries were used to build Chati:
 * Miscellaneous: [Google Guava](https://github.com/google/guava)
 
 Following resources were used to build Chati:
+* Skin: [ShadeUI](https://ray3k.wordpress.com/artwork/shade-ui-skin-for-libgdx/)
 * Emojis: [OpenMoji](https://openmoji.org/)
 * Music: [Bensound](https://www.bensound.com/royalty-free-music)
 
