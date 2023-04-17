@@ -35,7 +35,7 @@ The following screenshots show how the application looks like:
 
 ## Can I use Chati?
 
-Unfortunately, as the source some resources is uncertain (and thus the rights to publish), I had to delete some files. Thus, the state of the Client 
+Unfortunately, as the source of some resources is uncertain (and thus the rights to publish), I had to delete some files. Thus, the state of the Client 
 in this repo is unusable. However, the server side application can still be started.
 
 ## Credits
