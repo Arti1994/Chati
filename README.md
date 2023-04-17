@@ -45,6 +45,8 @@ Following libraries were used to build Chati:
 * Webcam Access: [Sarxos](https://github.com/sarxos/webcam-capture)
 * Text-To-Speech Synthesizing: [MaryTTS](https://github.com/marytts/marytts)
 * Miscellaneous: [Google Guava](https://github.com/google/guava)
+* Tests: [JUnit 4](https://github.com/junit-team/junit4)
+* Mocks: [Mockito](https://github.com/mockito/mockito)
 
 Following resources were used to build Chati:
 * Skin: [ShadeUI](https://ray3k.wordpress.com/artwork/shade-ui-skin-for-libgdx/)
